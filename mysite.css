@@ -1,0 +1,64 @@
+*
+{
+    margin: 0;
+}
+
+.header 
+{
+    background-image: linear-gradient(360deg, #00cdac 0%,  #9954b5  100%);
+    border: 20px;
+    margin: 0px;
+    text-decoration: none;
+    display: flex;  
+}
+.search 
+{
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 50px;
+    overflow: hidden;   
+}
+
+.logo 
+{
+   
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.home,.aboutus,.contact
+{ /* border: 2px solid black; */
+    border-radius: 6px;
+   width: 50%;
+    margin-top: 20px;
+    margin-left: 5%;
+    overflow: hidden;
+}
+body
+{
+    background-image: linear-gradient(360deg, #00cdac 0%, #9954b5 100%);
+}
+.header2
+{
+    display: flex;
+}
+.img,.name
+{
+   font-family: Cursive;
+   padding: 2%;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.education
+{
+   width: 100%;
+    border-width:10px;
+    background-image: linear-gradient(360deg, #00cdac 0%,  #9954b5  100%);
+}
+.educations,.book,.hobby,.skill
+{
+ 
+    margin-left: 100px;
+    border-top-right-radius: 30px;
+    background-image: linear-gradient(360deg, #00cdac 0%,  #9954b5  100%);
+}
